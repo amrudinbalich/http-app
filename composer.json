@@ -1,0 +1,17 @@
+{
+    "name": "amrudinbalic/http",
+    "description": "http app",
+    "autoload": {
+        "psr-4": {
+            "AmrudinBalic\\Http\\": "src/",
+            "AmrudinBalic\\Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amrudin Balić",
+            "email": "balicamrudin@gmail.com"
+        }
+    ],
+    "require": {}
+}
